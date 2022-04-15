@@ -7,6 +7,7 @@
     <groupId>org.web3j.sample</groupId>
     <artifactId>sample-project-maven</artifactId>
     <version>1.0.0-SNAPSHOT</version>
+<<<<<<< HEAD
 
     <properties>
         <project.java.version>1.8</project.java.version>
@@ -16,6 +17,12 @@
     
    
 
+=======
+      <properties>
+         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+      </properties>
+>>>>>>> e1dd009fa1012e0a21af7496e3f7c179bb226fea
     <dependencies>
         <dependency>
             <groupId>org.web3j</groupId>
