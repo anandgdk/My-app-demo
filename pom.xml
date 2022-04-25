@@ -14,14 +14,11 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
     
-   
-
-=======
       <properties>
          <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
          <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
       </properties>
->>>>>>> e1dd009fa1012e0a21af7496e3f7c179bb226fea
+
     <dependencies>
         <dependency>
             <groupId>org.web3j</groupId>
